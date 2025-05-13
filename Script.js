@@ -4,7 +4,11 @@
       { name: "Vegetarian Pizza", price: "120 kr.", category: "vegetarian", imageUrl: "images/vegpizza.jpg" },
       { name: "Chicken Burger", price: "89 kr.", category: "meat", imageUrl: "images/chickburger.jpg" },
       { name: "Veggie Wrap", price: "69 kr.", category: "vegetarian", imageUrl: "images/vegwrap.jpg" },
-      { name: "Beef Steak", price: "150 kr.", category: "meat", imageUrl: "images/beefsteak.jpg" }
+      { name: "Beef Steak", price: "150 kr.", category: "meat", imageUrl: "images/beefsteak.jpg" },
+      { name: "kingfisher", price: "75 kr.", category: "drink", imageUrl: "images/kingfisher beer.jpg" },
+      { name: "rødvin", price: "70 kr.", category: "drink", imageUrl: "images/rødvin.jpg" },
+      { name: "Cola", price: "60 kr.", category: "drink", imageUrl: "images/cola.jpg" }
+      
     ];
 
     // Get the <ul> element
