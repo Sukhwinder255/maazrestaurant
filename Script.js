@@ -45,28 +45,29 @@
 
       { 
         name: "Vegetarian Pizza", 
-        description: "sukhi add text here.",
+        description: "A Vegetarian Pizza is topped with fresh veggies, cheese, and tomato sauce.",
         price: 120.00, 
         category: "vegetarian", 
         image: "images/vegpizza.jpg" 
       },
       { 
         name: "Chicken Burger", 
-        description: "sukhi add text here.",
+        description: "  chicken patty with lettuce, and sauce in a soft bun.",
         price: 89.00, 
         category: "meat", 
         image: "images/chickburger.jpg" 
       },
       { 
         name: "Veggie Wrap",
-        description: "sukhi add text here.", 
+        description: " with fresh vegetables, cheese, and flavorful sauce.",
+
         price: 69.00, 
         category: "vegetarian", 
         image: "images/vegwrap.jpg" 
       },
       { 
         name: "Beef Steak", 
-        description: "sukhi add text here.",
+        description: "juicy cut of beef, grilled or pan-seared to perfection.",
         price: 150.00, 
         category: "meat", 
         image: "images/beefsteak.jpg" 
