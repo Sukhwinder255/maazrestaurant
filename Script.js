@@ -52,14 +52,14 @@
       },
       { 
         name: "Chicken Burger", 
-        description: "  chicken patty with lettuce, and sauce in a soft bun.",
+        description: "  Chicken patty with lettuce, and sauce in a soft bun.",
         price: 89.00, 
         category: "meat", 
         image: "images/chickburger.jpg" 
       },
       { 
         name: "Veggie Wrap",
-        description: " with fresh vegetables, cheese, and flavorful sauce.",
+        description: " With fresh vegetables, cheese, and flavorful sauce.",
 
         price: 69.00, 
         category: "vegetarian", 
@@ -67,28 +67,28 @@
       },
       { 
         name: "Beef Steak", 
-        description: "juicy cut of beef, grilled or pan-seared to perfection.",
+        description: "Juicy cut of beef, grilled or pan-seared to perfection.",
         price: 150.00, 
         category: "meat", 
         image: "images/beefsteak.jpg" 
       },
       { 
         name: "kingfisher",
-        description: "sukhi add text here.", 
+        description: "Refreshing taste and smooth, malty flavor.", 
         price: 75.00, 
         category: "drink", 
         image: "images/kingfisher beer.jpg" 
       },
       { 
-        name: "rødvin", 
-        description: "sukhi add text here.",
+        name: "Rødvin", 
+        description: " Full-bodied drink made from fermented dark grapes.",
         price: 70.00, 
         category: "drink", 
         image: "images/rødvin.jpg" 
       },
       { 
         name: "Cola", 
-        description: "sukhi add text here.",
+        description: "One small cola free with two medium cola.",
         price: 60.00, 
         category: "drink", 
         image: "images/cola.jpg" 
