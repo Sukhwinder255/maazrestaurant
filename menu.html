@@ -32,14 +32,25 @@
   <section id="Aboutus" class="section">
 
   <div class="section-content">
-    <h1>Product List</h1>
+      <h1>Indian Takeaway Menu</h1>
 
-  <!-- Buttons to filter products -->
-  <button id="vegetarianBtn">Vegetarian</button>
-  <button id="meatBtn">Meat</button>
+      <div class="cart" id="cart">
+        <h2>🛒 Your Cart</h2>
+        <div id="cartItems"></div>
+        <div class="cart-total" id="cartTotal">Total: DKK 0.00</div>
+      </div>
+<br />
+      <div class="controls">
+        <input type="text" id="searchInput" placeholder="Search dishes...">
+        <button id="allBtn">All</button>
+        <button id="vegetarianBtn">Vegetarian</button>
+        <button id="meatBtn">Meat</button>
+        <button id="drinkBtn">Drink</button>
+      </div>
 
-  <!-- Unordered list with id -->
-  <ul id="productList" class="product-list"></ul>
+      <ul id="productList"></ul>
+
+    
    </div>
     
   </section>
