@@ -16,7 +16,7 @@
       },
       {
         name: "Daal makhani",
-        description: "sukhi add text here.",
+        description: "Rich and creamy Indian lentil dish.",
         price: 119.00,
         category: "vegetarian",
         image: "images/daalmakhani.jpg"
